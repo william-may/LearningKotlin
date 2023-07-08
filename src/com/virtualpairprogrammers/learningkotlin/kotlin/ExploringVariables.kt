@@ -1,5 +1,7 @@
 package com.virtualpairprogrammers.learningkotlin.kotlin
 
 fun main() {
-    System.out.println("Hello, World");
+    var name = "Bill"
+    val surname = "May"
+    println("$name $surname")
 }
