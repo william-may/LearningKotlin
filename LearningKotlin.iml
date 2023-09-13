@@ -9,4 +9,7 @@
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="library" name="KotlinJavaRuntime" level="project" />
   </component>
+  <component name="SonarLintModuleSettings">
+    <option name="uniqueId" value="6adc4f7c-69f6-4c1c-a412-13758febb89c" />
+  </component>
 </module>
